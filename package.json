@@ -20,7 +20,7 @@
 		"extend": "^1.2.1",
 		"is-empty": "^0.0.1",
 		"couchdb-eval": "^1.0.0",
-		"couchdb-resp-completer": "^1.0.0",
+		"couchdb-resp-completer": "^1.0.3",
 		"pouchdb-plugin-error": "^1.0.0"
 	}
 }

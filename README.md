@@ -1,6 +1,8 @@
 couchdb-render
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/couchdb-render.svg)](https://greenkeeper.io/)
+
 Given the code of a CouchDB show/list function (and some other stuff),
 this module runs it and returns the result. Written to be used for (and
 developed alongside) PouchDB plug-ins.
